@@ -17,7 +17,7 @@ title: 关于我
 
 <p>
 
-感谢Github上的dakai提供模板，在Git都忘记的情况下总算弄完了
+感谢Github上的dalao提供模板，在Git都忘记的情况下总算弄完了
 
 <p>
 
