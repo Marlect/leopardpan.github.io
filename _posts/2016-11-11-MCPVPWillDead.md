@@ -71,7 +71,7 @@ Mineplex在很久以前就达到过两三万人同时在线
 当然是因为Hacker
 因为Mineplex没有有效的反作弊，他们的游戏很多都是命令方块而非插件
 所以才有了今天，他们也很久没有新的小游戏了
-![](/images/posts/Right.PNG)
+![](/images/posts/Right.png)
 图中的Badlion并没有达到全盛时期
 
 ### 题外话
