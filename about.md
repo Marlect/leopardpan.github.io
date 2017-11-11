@@ -11,7 +11,7 @@ title: 关于我
 
 <p>
 
-推荐一个我维护的 Team 博客
+推荐一个原作者维护的博客
 <a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
 里面有一些关于 iOS 、Android 和 机器学习 的文章。
 
