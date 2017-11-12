@@ -3,7 +3,7 @@ layout: post
 title: "Minecraft的PVP圈子已经开始衰落"
 date: 2017-11-11 11:15:06 -0700
 description: "之时一些想法"
-tag: 博客 
+tag: MC PVP 
 ---   
 
 　　其实，自从2017年以来，MC的PVP圈子已经走向了衰落     
